@@ -1,3 +1,5 @@
+q2: coinToss should display (cout) "heads" or "tails" inside the function, not return an int (-1)
+
 2. (4 pts) Write a complete program in a cpp file that simulates the coin toss. Your program
 will prompt the user how many times the coin should be tossed and then simulate the
 tossing of the coin that number of times. Write a function named coinToss that
